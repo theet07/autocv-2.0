@@ -1,0 +1,122 @@
+{
+  "personal": {
+    "name": "Nome Completo do Candidato",
+    "title": "Suporte Técnico de TI | Redes & Infraestrutura | Atendimento N1/N2",
+    "email": "seu-email@exemplo.com",
+    "phone": "(11) 99999-9999",
+    "city": "São Paulo, SP, Brasil",
+    "linkedin": "https://www.linkedin.com/in/seu-usuario/",
+    "github": "https://github.com/seu-usuario",
+    "website": ""
+  },
+  "summary": "Profissional com sólida formação técnica em Informática e vivência prática em rotinas de Suporte de TI, atendimento N1/N2 a usuários corporativos, administração de ambientes operacionais, redes básicas e resolução ágil de incidentes. Perfil organizado, comunicativo e orientado a resultados, focado em agregar valor de imediato às operações da empresa.",
+  "selectedPillar": "suporte",
+  "resumeStyle": {
+    "template": "executive",
+    "accent": "navy",
+    "density": "comfortable",
+    "onePageFit": true,
+    "showProjects": true,
+    "bulletExperiences": true
+  },
+  "pillars": {
+    "suporte": {
+      "title": "Suporte Técnico & Help Desk (N1/N2)",
+      "highlight": "Atendimento a usuários, suporte a sistemas corporativos, resolução de falhas técnicas, gestão de acessos, VPNs, proxies e provisionamento de contas.",
+      "skills": [
+        "Suporte a Sistemas Corporativos e Atendimento a Usuários (N1/N2)",
+        "Administração de Ambientes Virtuais, VPNs e Proxies",
+        "Gestão de Acessos, Contas Corporativas e Resolução de Bloqueios",
+        "Provisionamento e Ativação de Recursos Móveis Corporativos",
+        "Diagnóstico de Falhas Técnicas de Hardware e Software",
+        "Instalação e Configuração de Windows 10/11, Linux e Microsoft 365",
+        "Organização e Manutenção de Bases de Dados para Controle de Usuários",
+        "Ferramentas de Chamados (Help Desk / Service Desk) e Documentação Técnica"
+      ]
+    },
+    "redes": {
+      "title": "Redes & Infraestrutura",
+      "highlight": "Conectividade, VPNs corporativas, proxies, protocolos de rede (TCP/IP, DNS, DHCP), roteadores, switches e segurança básica de perímetro.",
+      "skills": [
+        "Gestão e Configuração de VPNs Corporativas e Proxies",
+        "Protocolos de Rede Essenciais (TCP/IP, DNS, DHCP, HTTP/HTTPS)",
+        "Configuração de Roteadores, Switches, Access Points e Wi-Fi",
+        "Diagnóstico de Conectividade, Perda de Pacotes e Latência",
+        "Monitoramento de Links, Servidores e Ambientes Virtualizados",
+        "Provisionamento e Conectividade de Dispositivos Móveis e Terminais",
+        "Segurança de Acesso, Firewall Básico e Controle de Tráfego",
+        "Cabeamento Estruturado (Cat5e/Cat6) e Organização Física"
+      ]
+    },
+    "administrativo": {
+      "title": "Administração & Rotinas de TI",
+      "highlight": "Controle de usuários e inventário, documentação técnica, planilhas gerenciais, monitoramento de produtividade e rastreabilidade de dados corporativos.",
+      "skills": [
+        "Organização e Manutenção de Bases de Dados e Controles Operacionais",
+        "Microsoft Excel, Pacote Office e Relatórios de Produtividade",
+        "Controle de Inventário, Ativos de TI e Provisionamento de Contas",
+        "Elaboração de Documentação Técnica e Padronização de Procedimentos",
+        "Atendimento Corporativo Claro com Usuários, Gestores e Fornecedores",
+        "Rastreabilidade, Auditoria de Acessos e Integridade de Informações",
+        "Acompanhamento de Indicadores, Prazos (SLA) e Fluxos Internos",
+        "Otimização de Processos Administrativos com Automação Digital"
+      ]
+    },
+    "analista": {
+      "title": "Desenvolvimento & Automações",
+      "highlight": "Desenvolvimento web fullstack, bancos de dados relacionais (SQL Server, MySQL), APIs REST, Git/GitHub e automações inteligentes.",
+      "skills": [
+        "JavaScript / TypeScript (React, Next.js, Node.js, Express)",
+        "Java e Spring Boot para Aplicações Backend",
+        "Bancos de Dados Relacionais e Consultas SQL (SQL Server, MySQL, PostgreSQL)",
+        "Desenvolvimento e Integração de APIs REST e Sistemas Web",
+        "Versionamento de Código e Fluxo Colaborativo com Git e GitHub",
+        "Automação de Processos Operacionais e Integração com IA",
+        "Análise de Requisitos, Sistemas Corporativos e SLAs",
+        "Construção de Interfaces Responsivas e Usabilidade (UI/UX)"
+      ]
+    }
+  },
+  "experiences": [
+    {
+      "id": "exp-1",
+      "role": "Analista de Suporte de TI / Help Desk",
+      "company": "Empresa de Tecnologia ou Serviços (Exemplo)",
+      "period": "2024 - Atual",
+      "description": "Atendimento técnico a usuários corporativos, resolução ágil de incidentes de hardware, software e conectividade.\nAdministração de contas de usuários, redefinição de acessos, configuração de VPNs corporativas e ferramentas de colaboração.\nPadronização de procedimentos de atendimento, reduzindo tempo de resposta e garantindo conformidade com SLAs acordados.\nRegistro detalhado e categorização de chamados em ferramenta de Service Desk, mantendo relatórios de acompanhamento."
+    },
+    {
+      "id": "exp-2",
+      "role": "Técnico de Suporte & Manutenção",
+      "company": "Atuação Profissional / Suporte Local",
+      "period": "2023 - 2024",
+      "description": "Instalação, formatação e configuração de sistemas operacionais Windows e Linux, pacote Office e aplicativos de produtividade.\nDiagnóstico de conectividade em rede local (Ethernet/Wi-Fi), cabeamento estruturado e configuração de roteadores.\nManutenção preventiva e corretiva de computadores, notebooks e periféricos, visando máxima estabilidade operacional."
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "name": "Automação de Rotinas & Painel Web de Chamados",
+      "tech": "Node.js, React, SQL, APIs REST, Git",
+      "description": "Desenvolvimento de soluções e scripts para agilizar triagem de solicitações, integração com planilhas de controle e painéis de indicadores operacionais."
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "course": "Técnico em Informática / Tecnologia da Informação",
+      "institution": "Instituição de Ensino Técnico / Faculdade",
+      "period": "2024 - 2026"
+    }
+  ],
+  "certifications": [
+    "Suporte a Sistemas Corporativos e Help Desk N1/N2",
+    "Fundamentos de Redes, TCP/IP e Conectividade",
+    "Bancos de Dados Relacionais e Consultas SQL",
+    "Boas Práticas de Atendimento ao Cliente e ITIL Essencial"
+  ],
+  "languages": [
+    "Português (Nativo)",
+    "Inglês (Técnico para leitura de documentações, manuais e logs)"
+  ]
+}

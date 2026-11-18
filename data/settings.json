@@ -1,0 +1,24 @@
+{
+  "email": {
+    "provider": "gmail",
+    "user": "",
+    "pass": "",
+    "fromName": "Seu Nome Completo",
+    "smtpHost": "smtp.gmail.com",
+    "smtpPort": 465,
+    "secure": true
+  },
+  "dispatch": {
+    "delaySecondsMin": 30,
+    "delaySecondsMax": 60,
+    "simulationMode": true,
+    "attachPdf": true,
+    "subjectTemplate": "Candidatura para a vaga de {role} - {name}",
+    "messageTemplate": "Olá, equipe de Recursos Humanos da {company}!\n\nMe chamo {name} e gostaria de submeter minha candidatura para a oportunidade de {role}.\n\nPossuo sólida formação e vivência prática em rotinas de suporte técnico, diagnóstico e solução de incidentes, redes e processos administrativos operacionais. Acredito que minha dedicação, capacidade de aprendizado ágil e foco no atendimento de qualidade podem agregar diretamente aos objetivos da equipe.\n\n{tailored_pitch}\n\nSegue em anexo meu currículo atualizado em formato PDF com o detalhamento das minhas experiências, qualificações e certificações.\n\nFico à disposição para uma entrevista e para esclarecer quaisquer dúvidas.\n\nAtenciosamente,\n{name}\n{phone} | {email}\n{linkedin}"
+  },
+  "ai": {
+    "mode": "smart-engine",
+    "apiKey": "",
+    "customNotes": "Priorizar clareza, honestidade técnica e palavras-chave de triagem ATS."
+  }
+}

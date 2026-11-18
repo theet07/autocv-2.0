@@ -1,0 +1,46 @@
+[
+  {
+    "id": "target-1",
+    "company": "TechSupport Soluções em TI",
+    "email": "rh@techsupport.exemplo.com.br",
+    "role": "Técnico de Suporte N1 / Helpdesk",
+    "category": "suporte",
+    "city": "São Paulo - SP (Híbrido)",
+    "status": "pending",
+    "notes": "Vaga para suporte a usuários, manutenção de microcomputadores e atendimento de chamados.",
+    "customJobDescription": "Buscamos Técnico de Suporte com experiência em atendimento ao usuário (presencial e remoto), manutenção de computadores, configuração de impressoras, Windows 10/11, pacote Office e gestão de chamados. Desejável conhecimento em Active Directory e redes básicas."
+  },
+  {
+    "id": "target-2",
+    "company": "InfraNet Conectividade & Redes",
+    "email": "vagas@infranet.exemplo.com.br",
+    "role": "Assistente de Infraestrutura e Redes",
+    "category": "redes",
+    "city": "São Paulo - SP (Presencial)",
+    "status": "pending",
+    "notes": "Infraestrutura de cabeamento, switches, roteadores e suporte a enlaces de internet.",
+    "customJobDescription": "Oportunidade para atuar com suporte à infraestrutura de redes, montagem e organização de racks, cabeamento estruturado Cat6, configuração básica de roteadores e switches, testes de conectividade e monitoramento de links de dados."
+  },
+  {
+    "id": "target-3",
+    "company": "Grupo Alfa Gestão Empresarial",
+    "email": "talentos@grupoalfa.exemplo.com.br",
+    "role": "Assistente Administrativo / TI",
+    "category": "administrativo",
+    "city": "São Paulo - SP",
+    "status": "pending",
+    "notes": "Apoio a rotinas administrativas, planilhas em Excel e suporte a sistemas internos.",
+    "customJobDescription": "Necessário bom domínio de Excel (fórmulas, relatórios, conciliação), organização de arquivos e notas fiscais, atendimento telefônico e apoio a demandas de TI interna e informática geral."
+  },
+  {
+    "id": "target-4",
+    "company": "ConnectTI Telecom",
+    "email": "recrutamento@connectti.exemplo.com.br",
+    "role": "Analista de Suporte Júnior",
+    "category": "suporte",
+    "city": "Remoto / Home Office",
+    "status": "pending",
+    "notes": "Atendimento de chamados N1/N2, suporte a VPN e acesso remoto.",
+    "customJobDescription": "Atendimento receptivo e ativo de tickets de suporte, configuração de VPN corporativa, Teams/Outlook, formatação e preparação de máquinas novas para novos colaboradores."
+  }
+]
